@@ -42,3 +42,5 @@ public class HomeWork1_2 {
             }
     }
 }
+
+//by Igor
